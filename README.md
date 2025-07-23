@@ -10,3 +10,7 @@ Luego reemplaza la lista fija de correos con destinatarios = df["email"].tolist(
 
 
 Instalar la librería openpyxl para poder leer archivos .xlsx
+
+Activa el entorno Virtual
+
+.\venv\Scripts\Activate
